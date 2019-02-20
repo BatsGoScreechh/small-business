@@ -1,0 +1,36 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "David Bird",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Megan Madden",
+            "departmentId": 2,
+            "computerId": 2
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "IT"
+        },
+        {
+            "id": 2,
+            "name": "Accounting"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "Dell Latitude 5590"
+        },
+        {
+            "id": 2,
+            "name": "2015 Macbook Pro"
+        }
+    ]
+}
